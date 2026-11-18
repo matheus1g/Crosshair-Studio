@@ -1,0 +1,1 @@
+O modo portatil guarda as suas configuracoes nesta pasta.

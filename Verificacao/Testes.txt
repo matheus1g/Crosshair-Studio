@@ -1,0 +1,13 @@
+﻿PASS settings save, profiles and recovery
+PASS portable share code and invalid input
+INFO Prism code 95 chars (legacy 978): CSX-042N0-WK9ED-PG40G-7GH0C-J0FDY-3ZZY0-C1C68-G75R1-1N86Y-VKMDW-G66SB-EEHS6-2V7DY-3ZZY3-1SXPA-0
+PASS compact CSX codes, legacy CS1 and exact roundtrip
+PASS keyframes, playback and keyboard chords
+PASS PNG transparency, SVG export and SVG import controls
+PASS WPF pages, editor undo/redo, configuration
+PASS Win32 overlay pixels, transparency, click-through and no activation
+PASS OS-wide hotkey registration and conflict
+PASS live editor and native overlay integration
+INFO tray/static sampling 1568 ms; CPU 0.00% of one logical core; working set 115 MiB; redraws 0
+PASS idle overlay resource sample
+PASS installation, repeat installation, removal and unrelated file preservation (workspace destination)
