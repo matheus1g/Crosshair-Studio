@@ -1,4 +1,5 @@
-Crosshair Studio
+# Crosshair Studio
+
 Editor de miras em camadas e overlay para Windows, com prévia em tempo real, perfis por jogo e compartilhamento de configurações.
 
 Windows 10/11 x64 · C# · WPF + Win32 · MIT · Versão 0.3.2
